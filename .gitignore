@@ -1,0 +1,7 @@
+# archivis de sistemas operativos
+.DS_Store
+Thumbs.db
+
+#archivos HTML
+*.html
+.idea
